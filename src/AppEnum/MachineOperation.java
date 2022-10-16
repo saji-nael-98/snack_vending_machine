@@ -1,0 +1,12 @@
+package AppEnum;
+
+public enum MachineOperation {
+    DISPLAY_SNACKS,
+    SELECT_SNACK,
+    SELECT_PAYMENT_METHOD,
+    MONEY_INSERTION,
+    ENOUGH_MONEY,
+    EJECT_INSERTED_MONEY,
+    EJECT_SNACK,
+    EJECT_MONEY;
+}
